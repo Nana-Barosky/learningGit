@@ -1,0 +1,15 @@
+1. git init
+2. git add .
+3. git commit -m "initial commit"
+4. git remote add origin https://github.com/Nana-Barosky/learningGit.git (Adding repository)
+5. git remote set-url origin https://Nana-Barosky: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@github.com/Nana-Barosky/learningGit.git(Token)
+6. git push (NB TO MASTER BRANCH)
+7.  git push --set-upstream origin master
+
+
+
+
+MY GIT AUTHENTICATION ACCESS
+
+git config --global user.email "yaokumaharrison@gmail.com"
+git config --global user.name "Nana-Barosky"
